@@ -36,9 +36,11 @@ Esta información permite definir una propuesta de valor que se alinea con los d
 Luego de definir una estrategia clara, es fundamental especificar el alcance de nuestra aplicación para asegurar que cubra de manera efectiva las necesidades de los usuarios. Para ello, hemos desarrollado tres perfiles de usuarios que representan a los distintos tipos de conductores en los que está enfocada la aplicación. Estos perfiles nos ayudan a entender mejor sus motivaciones, problemas y expectativas, que son clave para adaptar las funcionalidades de la aplicación de mejor manera.
 
 
-![UxPersona](files/UxPersonJorge.png)
-![UxPersona](files/UxPersonSandra.png)
-![UxPersona](files/UxPersonLeonardo.png)
+![UxPersona](files/UXPersonJorge.png)
+
+![UxPersona](files/UXPersonSandra.png)
+
+![UxPersona](files/UXPersonLeonardo.png)
 
 
 A continuación, se presenta el Customer Journey Map, que nos permite visualizar el recorrido de un usuario a lo largo de su interacción con la aplicación. Este es fundamental para identificar momentos clave donde la aplicación puede mejorar la experiencia del usuario, aliviar puntos de dolor o reforzar los elementos que funcionan bien.
@@ -48,6 +50,7 @@ A continuación, se presenta el Customer Journey Map, que nos permite visualizar
 Luego, realizamos un benchmark que analiza la competencia en el mercado, lo que nos permite identificar aciertos que deseamos imitar y errores que debemos evitar.
 
 [Benchmark canvas: Full document here](files/BenchmarkCanvas.pdf)
+
 ![BenchmarkCanvas](files/Benchmark.png) 
 
 ---
@@ -68,6 +71,7 @@ Los wireframes nos permiten crear una representación visual básica de la aplic
 
 ## Surface
 Los mockups representan una versión más detallada y fiel al diseño final de la aplicación. A diferencia de los wireframes, los mockups incluyen los elementos gráficos, colores, tipografías y otros detalles visuales que proporcionan una idea clara de cómo se verá la interfaz.
+
 - [Full document here](deliverables/Mockups.pdf)
 
 ---
