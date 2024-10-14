@@ -13,28 +13,25 @@ User Experience Design Process for ParkNow – Find All Your Parking Solutions i
 ---
 
 ## Description
-El propósito de este proyecto es ofrecer una instancia educativa y práctica del diseño de experiencia de usuario en el contexto de la gestión de estacionamiento y movilidad urbana.
+The purpose of this project is to offer a didactic and practical instance of user experience design in the context of parking management and urban mobility.
 
-El problema que se busca resolver es la falta de herramientas integradas que ayuden a los conductores no solo a encontrar estacionamientos de pago, sino también a identificar calles o pasajes donde está permitido estacionar sin costo. Actualmente, los conductores deben confiar en su conocimiento de la ciudad o en la señalización vial, lo que puede resultar en una búsqueda ineficiente y frustrante. Además, la falta de información sobre rutas alternativas para estacionar complica la movilidad en áreas congestionadas.
+The problem that is sought to be solved is the lack of integrated tools that help drivers not only find paid parking, but also identify streets or passages where free parking is allowed. Currently, drivers must rely on their knowledge of the city or on road signs, which can result in an inefficient and frustrating search. In addition, the lack of information on alternative routes to park complicates mobility in congested areas.
 
-Este proyecto se enfoca exclusivamente en el diseño de experiencia de usuario y sus elementos, describiendo la estrategia, el alcance, la estructura, el esqueleto y la superficie de la aplicación.
+This project focuses exclusively on the design of the user experience and its elements, describing the strategy, scope, structure, skeleton and surface of the application.
 
-El objetivo final es desarrollar una aplicación móvil que facilite tanto la gestión de estacionamientos como la visualización de opciones de estacionamiento gratuito en calles y espacios alternativos, optimizando la experiencia de los conductores.
+The final objective is to develop a mobile application that facilitates both the visualization of paid parking options, along with the possibility of reserving a space and in turn free alternative places, optimizing the experience of drivers.
 
 ---
 
 ## Strategy
-La capa de estrategia se basa en las necesidades y expectativas de los usuarios, y el "Canvas de Valor" juega un papel importante en esto. Al identificar claramente los problemas que enfrentan los conductores—como la dificultad para encontrar estacionamientos y la falta de información sobre opciones alternativas—el Canvas proporciona la base para establecer objetivos estratégicos.
-
+The strategy layer is based on user needs and expectations, and the Value Canvas plays an important role in this regard. By identifying the problems and pains drivers face (such as difficulty finding parking and lack of information about alternative options), the Value Canvas provides the basis for setting strategic goals.
 ![ValuePropositionCanvas](files/ValuePropositionCanvas.png)
 
-Esta información permite definir una propuesta de valor que se alinea con los dolores del usuario y cómo la aplicación puede aliviar esos dolores.
-
+This information allows us to define a value proposition that aligns with the user's challenges and shows how the application can address them
 ---
 
 ## Scope
-Luego de definir una estrategia clara, es fundamental especificar el alcance de nuestra aplicación para asegurar que cubra de manera efectiva las necesidades de los usuarios. Para ello, hemos desarrollado tres perfiles de usuarios que representan a los distintos tipos de conductores en los que está enfocada la aplicación. Estos perfiles nos ayudan a entender mejor sus motivaciones, problemas y expectativas, que son clave para adaptar las funcionalidades de la aplicación de mejor manera.
-
+After defining a clear strategy, it is essential to specify the scope of our application to ensure it effectively addresses users' needs. To this end, we have developed three user profiles that represent the different types of drivers the application is focused on. These profiles help us better understand their motivations, challenges, and expectations, which are key to adapting the application's features more effectively.
 
 ![UxPersona](files/UXPersonJorge.png)
 
@@ -43,11 +40,11 @@ Luego de definir una estrategia clara, es fundamental especificar el alcance de 
 ![UxPersona](files/UXPersonLeonardo.png)
 
 
-A continuación, se presenta el Customer Journey Map, que nos permite visualizar el recorrido de un usuario a lo largo de su interacción con la aplicación. Este es fundamental para identificar momentos clave donde la aplicación puede mejorar la experiencia del usuario, aliviar puntos de dolor o reforzar los elementos que funcionan bien.
+Below is the Customer Journey Map, which allows us to visualize a user's journey throughout their interaction with the application. This is essential for identifying key moments where the app can enhance the user experience, alleviate pain points, or reinforce the elements that work well.
 
 ![CJM](files/CJM.png)
 
-Luego, realizamos un benchmark que analiza la competencia en el mercado, lo que nos permite identificar aciertos que deseamos imitar y errores que debemos evitar.
+Next, we conducted a benchmark that analyzes the competition in the market, allowing us to identify successes we want to emulate and mistakes we should avoid.
 
 [Benchmark canvas: Full document here](files/BenchmarkCanvas.pdf)
 
@@ -56,21 +53,21 @@ Luego, realizamos un benchmark que analiza la competencia en el mercado, lo que 
 ---
 
 ## Structure
-En esta sección, presentamos el sitemap de la aplicación, que muestra la organización de las diferentes secciones y funcionalidades. Este nos permite visualizar el flujo de navegación, de esta manera podemos revisar y analizar si las principales funcionalidades son de fácil acceso para el usuario.
+In this section, we present the app's sitemap, which shows the organization of the different sections and features. This allows us to visualize the navigation flow, so we can review and assess whether the main functionalities are easily accessible to the user.
 
 ![NavigationDiagram](files/sitemap.png)
 
 ---
 
 ## Skeleton
-Los wireframes nos permiten crear una representación visual básica de la aplicación, sin muchos detalles gráficos, pero con suficiente información para realizar ajustes en la disposición del contenido. Esto nos da flexibilidad para hacer cambios antes de pasar a etapas más avanzadas del diseño.
+Wireframes allow us to create a basic visual representation of the app, without many graphic details, but with enough information to make adjustments in the content layout. This gives us the flexibility to make changes before moving on to more advanced stages of design.
 
 - [Full document here](deliverables/Wireframes.pdf)
 
 ---
 
 ## Surface
-Los mockups representan una versión más detallada y fiel al diseño final de la aplicación. A diferencia de los wireframes, los mockups incluyen los elementos gráficos, colores, tipografías y otros detalles visuales que proporcionan una idea clara de cómo se verá la interfaz.
+Mockups provide a more detailed and accurate representation of the final design of the application. Unlike wireframes, mockups incorporate graphic elements, colors, typography, and other visual details that give a clear vision of how the interface will look. At this stage, new details have been added, and greater emphasis has been placed on aesthetics, while still considering the functional importance of colors.
 
 - [Full document here](deliverables/Mockups.pdf)
 
