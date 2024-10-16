@@ -62,14 +62,14 @@ In this section, we present the app's sitemap, which shows the organization of t
 ## Skeleton
 Wireframes allow us to create a basic visual representation of the app, without many graphic details, but with enough information to make adjustments in the content layout. This gives us the flexibility to make changes before moving on to more advanced stages of design.
 
-- [Full document here](deliverables/Wireframes.pdf)
+- [Full document here](files/Wireframes.pdf)
 
 ---
 
 ## Surface
 Mockups provide a more detailed and accurate representation of the final design of the application. Unlike wireframes, mockups incorporate graphic elements, colors, typography, and other visual details that give a clear vision of how the interface will look. At this stage, new details have been added, and greater emphasis has been placed on aesthetics, while still considering the functional importance of colors.
 
-- [Full document here](deliverables/Mockups.pdf)
+- [Full document of semiMockups here](files/semiMockups.pdf)
 
 ---
 
