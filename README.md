@@ -77,6 +77,6 @@ Mockups provide a more detailed and accurate representation of the final design 
 ## Team
 - Enzo Loren
 - Samuel Álvarez
-- Fabian Matus
+- Fabián Matus
 - Germán Lagos 
 - Felipe Monsalves
