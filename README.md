@@ -72,7 +72,10 @@ Mockups provide a more detailed and accurate representation of the final design 
 
 - [Full document of semiMockups here](files/semiMockups.pdf)
 - [Full document of Mockups here](files/Mockups.pdf)
+  
+After conducting a usability and heuristic evaluation, as well as gathering feedback on the initial mockups, several iterations and adjustments were carried out. This process allowed for the identification of key improvement opportunities, resulting in the creation of the final mockups, which reflect a more intuitive, functional design aligned with user needs.
 
+- [Full document of Final Mockups here]
 ---
 
 ## Usability  
