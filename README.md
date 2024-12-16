@@ -8,7 +8,8 @@ User Experience Design Process for ParkNow – Find All Your Parking Solutions i
 - [Structure](#structure)
 - [Skeleton](#skeleton)
 - [Surface](#surface)
-- [Team](#Team)
+- [Usability](#usability)
+- [Team](#team)
 
 ---
 
@@ -72,6 +73,40 @@ Mockups provide a more detailed and accurate representation of the final design 
 - [Full document of semiMockups here](files/semiMockups.pdf)
 - [Full document of Mockups here](files/Mockups.pdf)
 
+---
+
+## Usability  
+
+As part of the user experience design process for Parknow, several improvements were implemented during a second design phase. This section outlines the results obtained and the key aspects addressed.  
+
+### Usability Evaluation  
+
+A heuristic evaluation was conducted by an external group, focusing on analyzing the usability of the application.  
+
+This process helped identify issues in the quality of the proposed interface. The evaluation team highlighted several problems, prioritizing the most severe and critical ones.  
+
+Based on these findings, the Parknow team implemented the necessary solutions and addressed the identified issues. Below are the key improvements made:  
+
+- **Button Updates**: Updated the colors of the call-to-action buttons to improve clarity and avoid confusion about their functionality.  
+
+- **Reservation Cancellation**: Added a mechanism for users to cancel reservations easily and quickly. *(Still pending implementation)*  
+
+- **User Location**: Integrated real-time user location display directly on the map.  
+
+- **Schedules and Prices**: Enhanced functionality to display reservation prices and define schedules. Users can now switch between registered cards during payment.  
+
+- **Favorites Organization**: Optimized the "Favorites" section by enabling custom groups to reduce visual clutter and improve organization.  
+
+- **Icon Redesign**: Redesigned the "Favorites" icon to maintain aesthetic consistency throughout the application. *(Pending decision on whether to name it "Favorites" or "Saved")*  
+
+- **Navbar Adjustment**: Reorganized the navbar, reducing it to three main options and centering the map as the primary screen for users.  
+
+- **Additional Details**: Expanded parking details and street descriptions, making prices more visible and adding brief references to assist navigation.  
+
+- **Rating Method**: Implemented a feature for users to rate parking spots, improving interaction and trust in the platform. *(Overlay still pending implementation)*  
+
+- **Map Search**: Updated the map search bar with more descriptive text to guide users on its purpose and functionality.
+  
 ---
 
 ## Team
