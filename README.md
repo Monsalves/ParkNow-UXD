@@ -98,9 +98,9 @@ Based on these findings, the Parknow team implemented the necessary solutions an
 
 - **Schedules and Prices**: Enhanced functionality to display reservation prices and define schedules. Users can now switch between registered cards during payment.  
 
-- **Favorites Organization**: Optimized the "Favorites" section by enabling custom groups to reduce visual clutter and improve organization.  
-
 - **Icon Redesign**: Redesigned the icon and updated the section name to "Saved" to maintain aesthetic consistency throughout the application.
+
+- **Saved Organization**: Optimized the "Saved" section by enabling custom groups to reduce visual clutter and improve organization.  
 
 - **Navbar Adjustment**: Reorganized the navbar, reducing it to three main options and centering the map as the primary screen for users.  
 
