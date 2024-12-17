@@ -92,7 +92,7 @@ Based on these findings, the Parknow team implemented the necessary solutions an
 
 - **Button Updates**: Updated the colors of the call-to-action buttons to improve clarity and avoid confusion about their functionality.  
 
-- **Reservation Cancellation**: Added a mechanism for users to cancel reservations easily and quickly. *(Still pending implementation)*  
+- **Reservation Cancellation**: Added a mechanism for users to cancel reservations easily and quickly. 
 
 - **User Location**: Integrated real-time user location display directly on the map.  
 
@@ -100,13 +100,13 @@ Based on these findings, the Parknow team implemented the necessary solutions an
 
 - **Favorites Organization**: Optimized the "Favorites" section by enabling custom groups to reduce visual clutter and improve organization.  
 
-- **Icon Redesign**: Redesigned the "Favorites" icon to maintain aesthetic consistency throughout the application. *(Pending decision on whether to name it "Favorites" or "Saved")*  
+- **Icon Redesign**: Redesigned the icon and updated the section name to "Saved" to maintain aesthetic consistency throughout the application.
 
 - **Navbar Adjustment**: Reorganized the navbar, reducing it to three main options and centering the map as the primary screen for users.  
 
 - **Additional Details**: Expanded parking details and street descriptions, making prices more visible and adding brief references to assist navigation.  
 
-- **Rating Method**: Implemented a feature for users to rate parking spots, improving interaction and trust in the platform. *(Overlay still pending implementation)*  
+- **Rating Method**: Implemented a feature for users to rate parking spots, improving interaction and trust in the platform.
 
 - **Map Search**: Updated the map search bar with more descriptive text to guide users on its purpose and functionality.
   
