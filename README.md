@@ -110,7 +110,8 @@ Based on these findings, the Parknow team implemented the necessary solutions an
 
 - **Map Search**: Updated the map search bar with more descriptive text to guide users on its purpose and functionality.
 
-[Examples of Changes Post-Evaluation](files/Examples  Changes Post-Evaluation.pdf)
+- [Examples of Changes Post-Evaluation](files/Changes_Post-Evaluation.pdf)
+
 ---
 
 ## Team
