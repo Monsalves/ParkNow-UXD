@@ -29,6 +29,7 @@ The strategy layer is based on user needs and expectations, and the Value Canvas
 ![ValuePropositionCanvas](files/ValuePropositionCanvas.png)
 
 This information allows us to define a value proposition that aligns with the user's challenges and shows how the application can address them
+
 ---
 
 ## Scope
@@ -75,7 +76,8 @@ Mockups provide a more detailed and accurate representation of the final design 
   
 After conducting a usability and heuristic evaluation, as well as gathering feedback on the initial mockups, several iterations and adjustments were carried out. This process allowed for the identification of key improvement opportunities, resulting in the creation of the final mockups, which reflect a more intuitive, functional design aligned with user needs.
 
-- [Full document of Final Mockups here]
+- [Full document of Final Mockups here](files/final-muckups)
+  
 ---
 
 ## Usability  
